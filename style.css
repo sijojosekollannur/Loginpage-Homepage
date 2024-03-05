@@ -1,0 +1,31 @@
+body{
+    height:100%;
+    width:100%;
+}
+.logindiv{
+    width:50%;
+    height:300px;
+    margin-top: 180px;
+    margin-left: 260px;
+}
+.logindiv > h1{
+    color: white;
+    font-size:50px ;
+    padding-left: 200px;
+}
+.homeimage{
+    background-image: url("/images/scene1.jpg");
+    background-size:cover;
+    background-position: center;
+}
+.loginimage{
+    background-image: url("/images/scene.jpg");
+    background-size: cover;
+    background-position: center;
+}
+label{
+    color: white;
+    font-size: 20px;
+}
+
+
